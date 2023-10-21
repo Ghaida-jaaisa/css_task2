@@ -1,0 +1,13 @@
+.services {
+    text-align: center;
+    background-color: antiquewhite;
+}
+.service {
+    float: left;
+    width: 200px;
+   
+
+}
+ .clrfix {
+    clear: left;
+ }
